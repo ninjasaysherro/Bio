@@ -53,6 +53,10 @@ a {
     font-size: 18px;
 }
 
+div#banners{
+    display: none;
+}
+
 
 
 /*First Section*/
