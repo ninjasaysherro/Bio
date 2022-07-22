@@ -264,9 +264,3 @@ button {
     align-items: center;
     bottom: 0px;
 }
-
-/*Misc*/
-
-::-webkit-scrollbar{
-    color: #1F2937 slategrey;
-}
